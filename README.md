@@ -1,6 +1,6 @@
 # 🎨 Frontend-Kit
 
-Frontend-Kit é um 🔧 conjunto de ferramentas, componentes e utilitários para agilizar o desenvolvimento de interfaces de usuário modernas e responsivas. Este repositório oferece uma coleção de componentes reutilizáveis, estilos pré-configurados e scripts otimizados, permitindo que desenvolvedores criem aplicações frontend de forma eficiente e consistente.
+Frontend-Kit é um conjunto de ferramentas, componentes e utilitários para agilizar o desenvolvimento de interfaces de usuário modernas e responsivas. Este repositório oferece uma coleção de componentes reutilizáveis, estilos pré-configurados e scripts otimizados, permitindo que desenvolvedores criem aplicações frontend de forma eficiente e consistente.
 
 ## 🚀 Funcionalidades
 
